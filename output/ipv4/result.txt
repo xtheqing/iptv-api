@@ -1,36 +1,44 @@
 🕘️更新时间,#genre#
-2026-02-17 18:37:29,http://23.237.228.134/live5/CCTV2.m3u8
+2026-02-18 06:21:52,http://23.237.228.134/live5/CCTV2.m3u8
 
 📺央视频道,#genre#
 CCTV-2,http://23.237.228.134/live5/CCTV2.m3u8
 CCTV-3,http://23.237.228.134/live5/CCTV3.m3u8
+CCTV-5+,https://60.191.56.186:8888/hls/15/index.m3u8
 CCTV-7,http://23.237.228.134/live5/CCTV7.m3u8
 CCTV-11,http://69.30.246.194/live/cctv11.m3u8
+CCTV-12,http://69.30.246.194/live/cctv12.m3u8
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
+CCTV-14,http://69.30.246.194/live/cctv14.m3u8
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
+CCTV-15,http://69.30.246.194/live/cctv15.m3u8
+CCTV-16,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 CCTV-16,http://69.30.246.194/live/cctv16.m3u8
 
 💰央视付费频道,#genre#
 风云音乐,http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
+风云剧场,http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
 高尔夫网球,http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
+电视指南,http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub
 兵器科技,http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
 
 📡卫视频道,#genre#
 广东卫视,http://23.237.228.134/live6/guangdong.m3u8
 浙江卫视,http://23.237.228.134/live6/zhejiang.m3u8
-浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 浙江卫视,http://69.30.246.194/live/zjws.m3u8
+浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 湖南卫视,http://23.237.228.134/live6/hunan.m3u8
 湖南卫视,http://69.30.246.194/live/hnws.m3u8
 湖北卫视,http://23.237.228.134/live6/hubei.m3u8
 重庆卫视,http://23.237.228.134/live6/chongqing.m3u8
 东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
 东方卫视,http://23.237.228.134/live6/dongnan.m3u8
+东方卫视,http://69.30.246.194/live/dfws.m3u8
 广西卫视,http://23.237.228.134/live6/guangxi.m3u8
 广西卫视,http://23.237.228.134/live6/guizhou.m3u8
 贵州卫视,http://23.237.228.134/live6/hainan.m3u8
+江苏卫视,http://69.30.246.194/live/jsws.m3u8
 青海卫视,http://38.75.136.137:98/gslb/dsdqpub/qhws.m3u8?auth=testpub
-山西卫视,http://119.39.9.8:9901/tsfile/live/0118_1.m3u8
 陕西卫视,http://23.237.228.134/live6/sichuan.m3u8
 深圳卫视,http://23.237.228.134/live6/shenzhen.m3u8
 
@@ -45,6 +53,7 @@ CCTV-16,http://69.30.246.194/live/cctv16.m3u8
 浙江民生休闲,http://ali-xwl.cztv.com/live/channel061080Plxw.m3u8
 浙江教科影视,http://ali-xwl.cztv.com/live/channel041080Plxw.m3u8
 浙江青田,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
+浙江遂昌,http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 诸暨新闻综合,http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed#EXTINF:-1%20group-title=%22%E2%80%A2%E9%9F%B3%E4%B9%90%22,%E9%9F%B3%E4%B9%90%E7%9F%B3%E6%A6%B4
 衢江新闻综合,http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8?zzhed
 苍南新闻综合,http://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8?zzhed
@@ -73,6 +82,8 @@ CCTV-16,http://69.30.246.194/live/cctv16.m3u8
 ☘️湖北频道,#genre#
 
 ☘️广西频道,#genre#
+广西新闻,http://38.75.136.137:98/gslb/dsdqpub/gxxw.m3u8?auth=testpub
+广西国际,http://38.75.136.137:98/gslb/dsdqpub/gxgj.m3u8?auth=testpub
 
 ☘️天津频道,#genre#
 
@@ -90,8 +101,6 @@ CCTV-16,http://69.30.246.194/live/cctv16.m3u8
 ☘️河北频道,#genre#
 
 ☘️甘肃频道,#genre#
-白银综合,https://play.kankanlive.com/live/1720408089419110.m3u8
-白银综合,http://play.kankanlive.com/live/1720408089419110.m3u8
 
 ☘️新疆频道,#genre#
 
@@ -108,9 +117,7 @@ CCTV-16,http://69.30.246.194/live/cctv16.m3u8
 🌊港·澳·台,#genre#
 
 🎬电影频道,#genre#
-靖天映画,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGDXv1SfZ1MhhtLDvMdZtSidqO1YPWuu00ZaAz_b0Ihbb7Q51OkyNfs2D8NErQUB5-ZDHT6Zkkf4Hw28oxeuXPQzXaayE0zVcA9b4AcBPQgt0YsLk64wcv91Sa-Gk0nDTE_RP3qgYMpUNpTTTLiTGKOXSdye5XmlIjbipatd2QaTM1ylxLytNz7bMJPC2hDabAHqbtO9DZZ-4DuMvYfMNGbg.m3u8?u=1757123819
 靖天映画,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUGoAizwDX2ugIXbPbDhCigHfDjvhlcSwubLm2ffedfFXku6bvyJpxyrIEil4B5LpfVMB8A7gpCCrWNvUSRiXXXeWf1ajMfN0PWvetfPYUdZzzDCXtxjUEpQmUqB1RGqWo2mZ7LEjTph_HtLZJTFi16cFluiQqoa-_n1Cz54-LDR4kIN8-KraW11yGB1XUdSi2hqpxIyqWAX8djADiGB2xKg.m3u8?u=1756878715
-靖天戏剧,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGSGiDeEPqIEJVx3us26kmLFaDm0KCC0qIr1Xros8zGoEPNHaFzXQLAiFBlbr6qSvMN5Z7yzGqNwECOOaVoXxtgc_IdHKrPb4FGmjpSksjE4YiIB4zSSExvnI840FbChvM6nuX5fTEJvHNzPV2pAMh-QJEfasmpz5B3lviCX9MWMdXaAo8lT1pjXYD8bOrAEL1aJIrb60F_VojtF9C3btvEQ.m3u8?u=1757123819
 
 🎥咪咕直播,#genre#
 
