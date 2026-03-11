@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-11 06:19:24,https://event.pull.hebtv.com/jishi/cp1.m3u8
+2026-03-11 18:30:58,https://event.pull.hebtv.com/jishi/cp1.m3u8
 
 📺央视频道,#genre#
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
@@ -15,7 +15,6 @@ CCTV-16,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 
 📡卫视频道,#genre#
 浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
-东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
 宁夏卫视,http://38.75.136.137:98/gslb/dsdqpub/nxws.m3u8?auth=testpub
 青海卫视,http://38.75.136.137:98/gslb/dsdqpub/qhws.m3u8?auth=testpub
 山西卫视,http://119.39.9.8:9901/tsfile/live/0118_1.m3u8
@@ -68,6 +67,8 @@ CCTV-16,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 ☘️河北频道,#genre#
 
 ☘️甘肃频道,#genre#
+白银综合,http://play.kankanlive.com/live/1720408089419110.m3u8
+白银综合,https://play.kankanlive.com/live/1720408089419110.m3u8
 
 ☘️新疆频道,#genre#
 
@@ -90,6 +91,7 @@ CCTV-16,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 🏀体育频道,#genre#
 
 🪁动画频道,#genre#
+金鹰卡通,http://221.13.235.131:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 
 🎮游戏频道,#genre#
 
