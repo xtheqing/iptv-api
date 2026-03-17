@@ -1,7 +1,8 @@
 🕘️更新时间,#genre#
-2026-03-17 06:24:24,https://event.pull.hebtv.com/jishi/cp1.m3u8
+2026-03-17 18:41:28,http://107.150.60.122/live/cctv5p.m3u8
 
 📺央视频道,#genre#
+CCTV-5+,http://107.150.60.122/live/cctv5p.m3u8
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 CCTV-16,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
@@ -15,9 +16,14 @@ CCTV-16,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 
 📡卫视频道,#genre#
 浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
+湖南卫视,http://74.91.26.218:82/live/hnwshd.m3u8
+北京卫视,http://156.238.248.80:8880/play/28.m3u8
+重庆卫视,http://107.150.60.122/live/cqwshd.m3u8
+广西卫视,http://107.150.60.122/live/gxwshd.m3u8
 宁夏卫视,http://38.75.136.137:98/gslb/dsdqpub/nxws.m3u8?auth=testpub
 青海卫视,http://38.75.136.137:98/gslb/dsdqpub/qhws.m3u8?auth=testpub
 山西卫视,http://119.39.9.8:9901/tsfile/live/0118_1.m3u8
+陕西卫视,http://107.150.60.122/live/snwshd.m3u8
 
 ☘️广东频道,#genre#
 
@@ -48,8 +54,6 @@ CCTV-16,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 ☘️湖北频道,#genre#
 
 ☘️广西频道,#genre#
-广西新闻,http://38.75.136.137:98/gslb/dsdqpub/gxxw.m3u8?auth=testpub
-广西国际,http://38.75.136.137:98/gslb/dsdqpub/gxgj.m3u8?auth=testpub
 
 ☘️天津频道,#genre#
 
@@ -67,6 +71,8 @@ CCTV-16,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 ☘️河北频道,#genre#
 
 ☘️甘肃频道,#genre#
+白银综合,http://play.kankanlive.com/live/1720408089419110.m3u8
+白银综合,https://play.kankanlive.com/live/1720408089419110.m3u8
 
 ☘️新疆频道,#genre#
 
@@ -83,6 +89,8 @@ CCTV-16,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 🌊港·澳·台,#genre#
 
 🎬电影频道,#genre#
+CHC家庭影院,http://156.238.248.80:8880/play/59.m3u8
+CHC动作电影,http://156.238.248.80:8880/play/58.m3u8
 
 🎥咪咕直播,#genre#
 
