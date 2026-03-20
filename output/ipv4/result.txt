@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-20 18:29:40,http://107.150.60.122/live/cctv5p.m3u8
+2026-03-21 06:19:20,http://107.150.60.122/live/cctv5p.m3u8
 
 📺央视频道,#genre#
 CCTV-5+,http://107.150.60.122/live/cctv5p.m3u8
@@ -21,9 +21,9 @@ CCTV-16,http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
 重庆卫视,http://107.150.60.122/live/cqwshd.m3u8
 东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
 广西卫视,http://107.150.60.122/live/gxwshd.m3u8
+贵州卫视,http://38.75.136.137:98/gslb/dsdqpub/gzwshd.m3u8?auth=testpub
 宁夏卫视,http://38.75.136.137:98/gslb/dsdqpub/nxws.m3u8?auth=testpub
 青海卫视,http://38.75.136.137:98/gslb/dsdqpub/qhws.m3u8?auth=testpub
-山西卫视,http://119.39.9.8:9901/tsfile/live/0118_1.m3u8
 陕西卫视,http://107.150.60.122/live/snwshd.m3u8
 
 ☘️广东频道,#genre#
@@ -39,7 +39,6 @@ CCTV-16,http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
 衢江新闻综合,http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8?zzhed
 苍南新闻综合,http://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8?zzhed
 永嘉新闻综合,http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8
-永嘉新闻综合,http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8?zzhed&quot;
 庆元综合,http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8?zzhed?
 上虞新闻综合,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?zzhed
 上虞新商都,http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
