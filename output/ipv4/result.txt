@@ -1,9 +1,11 @@
 🕘️更新时间,#genre#
-2026-10-14 22:48:32,http://69.30.245.50/live/cctv10.m3u8
+2026-10-15 08:15:32,http://121.57.88.206:898/hls/3/index.m3u8
 
 📺央视频道,#genre#
+CCTV-3,http://121.57.88.206:898/hls/3/index.m3u8
 CCTV-10,http://69.30.245.50/live/cctv10.m3u8
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
+CCTV-11,http://204.12.221.218:8181/3m1080p/cctv11.m3u8
 CCTV-13,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv13hd
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
@@ -24,6 +26,7 @@ CETV1,http://198.204.228.26/live/cetv1hd.m3u8
 东方卫视,http://38.75.136.137:98/gslb/dsdqbv/dfwshd.m3u8?auth=test20251009
 广西卫视,http://198.204.228.26/live/gxwshd.m3u8
 贵州卫视,https://live.264788.xyz/channel/guizhouweishi?streamid=091bd59ea031989839c23459bb8cc9d4&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+河北卫视,http://173.208.212.130:8181/720p/hews.m3u8
 河南卫视,http://173.208.212.130:8181/720p/haws.m3u8
 吉林卫视,http://198.204.228.26/live/jlwshd.m3u8
 江苏卫视,http://38.75.136.137:98/gslb/dsdqbv/jswshd.m3u8?auth=test20251009
